@@ -17,6 +17,6 @@ npm run dev
 The main branch of this repo is the original website minus
 
 ```rust
-src/pages/showcase
-src/videos
+src/pages/showcase which is 380M
+src/videos which is 218M
 ```
