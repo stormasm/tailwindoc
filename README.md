@@ -1,4 +1,4 @@
-# Tailwind CSS Documentation
+This is a fork of [tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com).
 
 Tailwind CSS uses [Next.js](https://nextjs.org/) for its documentation.
 
@@ -14,6 +14,9 @@ Next, run the development server:
 npm run dev
 ```
 
-## License
+The main branch of this repo is the original website minus
 
-This project is not licensed under an open-source license and is the intellectual property of Tailwind Labs Inc. The source is available only as an educational resource and to accept fixes for minor mistakes.
+```rust
+src/pages/showcase
+src/videos
+```
