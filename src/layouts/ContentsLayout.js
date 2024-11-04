@@ -236,7 +236,6 @@ export function ContentsLayout({ children, meta, classes, tableOfContents, secti
       <ContentsContext.Provider value={{ registerHeading, unregisterHeading }}>
         {classes ? (
           <>
-            <ClassTable {...classes} />
             <div
               id="content-wrapper"
               className="relative z-20 prose prose-slate mt-12 dark:prose-dark"
